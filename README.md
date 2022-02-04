@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @misopog
+- 👀 I’m interested in linux
+- 🌱 I’m currently learning python
+- 📫 How to reach me : ig @majkenxd
