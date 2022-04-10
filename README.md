@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @misopog
-- 👀 I’m interested in linux
-- 🌱 I’m currently learning python
-- 📫 How to reach me : ig @majkenxd
+misopog@github
+-------------------------
+OS: Arch Linux x86_64
+Shell: zsh 5.8
+Location: Slovakia
+Languages: JavaScript, HTML, CSS, Rust
+Learning: Python
+Hobbies: Programming, Video Editing, Gaming
+Discord: misopog#0560
