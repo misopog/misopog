@@ -1,3 +1,4 @@
+```csharp
 misopog@github
 -------------------------
 OS: Arch Linux x86_64
@@ -7,3 +8,4 @@ Languages: JavaScript, HTML, CSS, Rust
 Learning: Python
 Hobbies: Programming, Video Editing, Gaming
 Discord: misopog#0560
+```
