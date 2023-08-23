@@ -9,5 +9,5 @@ Location: Slovakia
 Languages: Bash, HTML, CSS
 Learning: Python
 Hobbies: Programming, Video Editing, Gaming
-Discord: yasu#6338
+Discord: misopog
 ```
